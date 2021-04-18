@@ -34,7 +34,7 @@
 
 ### 특이사항
 - [BoB 8기 수료영상에 등장한 이력 보유 (39초)](https://www.youtube.com/watch?v=jiMa5zY26ms)
-- 태권도 4단
+- 병약하지만 태권도 4단 입니다..
 
 
 
