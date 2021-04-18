@@ -24,6 +24,7 @@
 
 ### CTF(해킹대회)
 - ChristMas CTF 2020 DOBBY_IS_FREE! 문제 출제 [https://dreamhack.io/ctf/4](https://dreamhack.io/ctf/4))
+- [DOBBY_IS_FREE! 문제](https://github.com/Tempuss/CTF_CVE-2020-7471)
 
 
 ### 특이사항
