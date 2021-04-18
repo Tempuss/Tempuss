@@ -26,6 +26,8 @@
 - ChristMas CTF 2020 DOBBY_IS_FREE! 문제 출제 [https://dreamhack.io/ctf/4](https://dreamhack.io/ctf/4))
 - [DOBBY_IS_FREE! 문제](https://github.com/Tempuss/CTF_CVE-2020-7471)
 
+### Resume
+- [보안하는 개발자](https://www.notion.so/2f22942266c645daa8c266b5ae5da113)
 
 ### 특이사항
 - [BoB 8기 수료영상에 등장한 이력 보유 (39초)](https://www.youtube.com/watch?v=jiMa5zY26ms)
